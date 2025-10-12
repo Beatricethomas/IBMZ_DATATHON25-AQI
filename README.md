@@ -13,8 +13,11 @@ Traditional AQI forecasting relies on complex machine learning models or sensors
 
 The system uses a historical AQI dataset spanning 24 years, containing information for multiple cities such as Bangalore, Chennai, Delhi, and Mumbai. 
 The dataset includes:
+
 AQI values (target variable)
+
 Environmental and pollution-related factors: PM2.5, PM10, NO2, CO, O3, SO2
+
 These datasets allow the system to understand both natural and human-induced factors affecting air quality.
 
 ## Proposed ML Model & Methodology
@@ -27,8 +30,17 @@ Although no advanced ML model is used, the system calculates evaluation metrics 
 
 ## Features Used
 Pollution indicators: PM2.5, PM10, NO2, CO, O3, SO2
+
 City encoding: Each city is encoded numerically for model processing.
 
 ## Linuxone deployment : 
+
+![WhatsApp Image 2025-10-12 at 11 48 17_f30f1a5d](https://github.com/user-attachments/assets/1d1a9709-fea7-4772-bee0-b4cd5e66ed90)
+
+<img width="994" height="936" alt="Screenshot 2025-10-12 114902" src="https://github.com/user-attachments/assets/26c65a3d-7daf-494a-bf68-ba3cacb4763c" />
+
+![WhatsApp Image 2025-10-12 at 11 49 52_3639397b](https://github.com/user-attachments/assets/f14424e5-ea44-4a11-b005-e4b04f215c04)
+
+![WhatsApp Image 2025-10-12 at 11 49 53_b0abacf0](https://github.com/user-attachments/assets/a3362794-69a4-4dba-8149-8bb14af52bcf)
 
 
